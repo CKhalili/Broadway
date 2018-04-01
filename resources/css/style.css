@@ -1,0 +1,43 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+.Broadway {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+#Design{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+.Process {
+  font-size: 32px;
+  font-weight: bold;
+}
+.identify,.understand,.execute,.Portfolio,.team,.contact{
+  font-size: 23px;
+  font-weight: bold;
+}
+.focus,.study,.everything,.soon,.hiring,.phone{
+  font-size: 14px;
+}
+.new-york{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+#copy{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+#home{
+  font-size: 18px;
+  color: white;
+}
+.home,.about,.work,.meat,.number{
+  font-size: 18px;
+  color: white;
+}
